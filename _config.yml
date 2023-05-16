@@ -32,6 +32,7 @@ excerpt_separator: <!--more-->
 permalink: articles/:year/:month/:title
 post_search: true
 rss-description: Nice to meet you!
+avatar: favicon.ico
 
 kramdown:
   auto_ids: true
